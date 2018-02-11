@@ -1,0 +1,16 @@
+{
+  "name": "express-jest",
+  "version": "1.0.0",
+  "description": "Sample express-js project with testing using jest",
+  "main": "index.js",
+  "author": "Swapnil Khandekar",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0"
+  }
+}
